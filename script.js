@@ -21,7 +21,7 @@ const faqs = [
     },
     {
         "question": "I can't find my section!",
-        "answer": "A subject for Section B will only appear if the slots for that subject in Student A is full. Likewise, a subject for Section C will only appear if the slots for the subject in Section B is full, and so on..."
+        "answer": "A subject for Section B will only appear if the slots for that subject in Section A is full. Likewise, a subject for Section C will only appear if the slots for the subject in Section B is full, and so on..."
     },
     {
         "question": "I can't find my subject!",
